@@ -260,7 +260,7 @@ li {
   transition: transform 0.3s ease-out;
 }
 /* project tool section */
-h5, h6, h7 {
+h4, h5, h6, h7 {
   font-family: 'Open Sans', sans-serif;
   color: black;
   font-size: 20px;
