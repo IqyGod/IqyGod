@@ -261,9 +261,10 @@ li {
 }
 /* project tool section */
 h5, h6, h7 {
-  font-family: 'Raleway', sans-serif;
-  color: #000;
+  font-family: 'Open Sans', sans-serif;
+  color: black;
   font-size: 20px;
+  font-weight: normal;
 }
 
 /* Contact section */
