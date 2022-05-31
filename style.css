@@ -104,7 +104,7 @@ img {
 .nav-list {
   display: flex;
   margin-right: 2rem;
-  height: 80px;
+  height: 70px;
 }
 
 @media (max-width: 28.75em) {
