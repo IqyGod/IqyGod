@@ -58,8 +58,7 @@ body {
   color: white;
 }
 
-h1,
-h2 {
+h1, h2 {
   font-family: 'Raleway', sans-serif;
   font-weight: 700;
   text-align: center;
@@ -71,6 +70,14 @@ h1 {
 
 h2 {
   font-size: 4.2rem;
+}
+
+.Fivestar {
+  margin-top: 30px;
+  margin-bottom: 50px;
+  color: black;
+  font-size: 3.9rem;
+  text-align: center;
 }
 
 ul {
@@ -104,7 +111,7 @@ img {
 .nav-list {
   display: flex;
   margin-right: 2rem;
-  height: 70px;
+  //height: 90px; /*这个有问题*/
 }
 
 @media (max-width: 28.75em) {
@@ -120,7 +127,7 @@ img {
 .nav-list a {
   display: block;
   font-size: 2.2rem;
-  padding: 2rem;
+  padding: 1.8rem;
 }
 
 .nav-list a:hover {
@@ -170,7 +177,8 @@ li {
   text-align: left;
   color: black;
   font-size: 24px;
-  margin-bottom: 20px;
+  margin-top: 40px;
+  margin-bottom: 30px;
 }
 
 
