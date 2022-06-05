@@ -80,6 +80,7 @@ h2 {
   text-align: center;
 }
 
+
 ul {
   list-style: none;
 }
@@ -189,6 +190,8 @@ li {
 }
 
 /* "Automagic" image grid using no media queries */
+
+
 .projects-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
@@ -222,6 +225,14 @@ li {
 
 .project:hover .code {
   color: #ff7f50;
+}
+
+
+.project-only-image {
+  height: calc(100% - 7rem);
+  width: 100%;
+  height: 500px;
+  object-fit: cover;
 }
 
 .project-image {
@@ -261,7 +272,7 @@ li {
   transition: transform 0.3s ease-out;
 }
 /* project tool section */
-h4, h5, h6, h7 {
+h4, h5, h6, h7, h9, h10 {
   font-family: 'Open Sans', sans-serif;
   color: black;
   font-size: 20px;
