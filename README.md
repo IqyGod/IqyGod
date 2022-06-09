@@ -5,3 +5,5 @@ It contains porjects that I built and solevd with data analyzing skills/ Microso
 It shows how I answered challenging questions that lack of visibility or robust causal evidence.
 
 Great work so far haha
+
+Check here for my page : https://iqygod.github.io/Wqian/
