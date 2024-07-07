@@ -4,7 +4,7 @@ It contains porjects that I built and solevd with data analyzing skills/ Microso
 
 It shows how I answered challenging questions that lack of visibility or robust causal evidence.
 
-Great work so far haha
+Great work so far 
 
 ## Porject Summary
 ### - Front End Developments : 
@@ -23,7 +23,7 @@ Timestamp Microservice
 <br>URL Shortener Microservice
 <br>File Metadata Microservice
 
-### - Tool for Data visulaization:
+### - Tool for Data visualization:
 Interactive Dashboards
 <br>Weather Forecast
 <br>Production Planning
